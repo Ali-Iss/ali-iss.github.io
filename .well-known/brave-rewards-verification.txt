@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: ali-iss.github.io
+Token: ad1010e4bc92f02f853d51a2e9384c247c92067a343304ea20a8d15b47fcb3f4
